@@ -73,7 +73,10 @@ http://mfe.cliptv.az:80/dash/CBC_Sport_HDwevb0150156_re.ism/playlist.mpd
 http://flussonic.izone.az/dunyatv/index.m3u8
 
 #EXTINF:-1 tvg-name="Mega TV" group-title="Azerbaycan",Mega TV
-http://de.online24.pm/play/1885/A0DA7023B261967/video.m3u8
+https://a8.radyotelekom.com.tr:3580/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="Apa TV" group-title="Azerbaycan",Apa TV
+http://rtmp.apa.tv/@pagroup!23.m3u8
 
 #EXTINF:-1 group-title="Tr Spor",Bein Sports 1
 http://vip.nuaktv.xyz:2095/shrt0231/QdTkDztGQRL9/163079
