@@ -97,9 +97,7 @@ http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664794.m3u8?play_token=
 http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664800.m3u8?play_token=
 
 #EXTINF:-1 group-title="Tr Spor",Bein Sports 1 (Alternatif)
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af96.workers.dev/static/bs1.m3u8
+
 
 #EXTINF:-1 tvg-name="Bein Sports 2 (Alternatif)" group-title="Tr Spor",Bein Sports 2 (Alternatif)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
